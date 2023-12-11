@@ -1,0 +1,7 @@
+Candidate   Type of Tweet      Tweet
+ AMLO 		EX 		You want change, vote for AMLO.
+ Anaya 	EX 		Yes, Mexicans, all vote for ANAYA.
+ Meade 	EX 		For a beautiful Mexico with electoral victory MEADE PRESIDENT OF MEXICO.
+ AMLO 		IM 		Today AMLO showed his political stature and harmony
+ Anaya 	IM 		Anaya EsElCambio MEXICO WAKE UP NOALCOMMUNISMO
+ Meade 	IM 		JoseAMeadeK does not need to go around buying people
